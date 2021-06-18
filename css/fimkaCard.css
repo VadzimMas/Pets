@@ -1,0 +1,75 @@
+.fimkaCard {
+  position: relative;
+  background-color: #fffffb;
+  width: 90vw;
+  height: 50vw;
+  margin: 5vw auto;
+  overflow: hidden;
+  transition: 0.6s;
+  box-shadow: 0px 0px 70px 2px dimgray;
+}
+
+.fimkaCard:hover {
+  box-shadow: 0px 0px 70px 20px dimgray;
+}
+
+/* bgSection */
+
+.fimkaCard .bg2 {
+  width: 40%;
+  position: absolute;
+  top: -2%;
+  left: 55%;
+}
+
+.fimkaCard .bg4 {
+  width: 50%;
+  position: absolute;
+  top: 80%;
+  left: 10%;
+}
+
+.fimkaCard .bg5 {
+  width: 10%;
+  position: absolute;
+  top: 50%;
+  left: 3%;
+}
+
+/* ImageSection */
+
+.fimkaCard .imageSection {
+  left: 52%;
+  top: 10%;
+}
+
+.fimkaCard .me {
+  width: 82%;
+  top: 13%;
+  left: 10%;
+}
+
+/* textSection */
+
+.fimkaCard .textSection {
+  top: 20%;
+  left: 7%;
+}
+
+.fimkaCard .name {
+  color: #95cdca;
+  font-size: 6vw;
+  line-height: 0;
+}
+
+.fimkaCard .name span {
+  color: #f1d673;
+}
+
+.fimkaCard .title {
+  font-size: 4vw;
+}
+
+.fimkaCard .subtitle {
+  font-size: 2vw;
+}
