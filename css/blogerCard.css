@@ -83,13 +83,13 @@
   width: 40%;
   height: 40%;
   position: absolute;
-  top: 20%;
+  top: 22%;
   left: 55%;
   text-align: center;
 }
 
 .aboutMe {
-  font-size: 1.2vw;
+  font-size: 1.5vw;
   color: #5b5b5f;
 }
 
@@ -104,6 +104,8 @@
 }
 
 .subtitle {
+  position: relative;
+  z-index: 1;
   color: #95cdca;
   font-size: 3vw;
 }

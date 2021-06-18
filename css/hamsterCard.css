@@ -78,7 +78,7 @@
   width: 40%;
   height: 40%;
   position: absolute;
-  top: 17%;
+  top: 13%;
   left: 55%;
   text-align: center;
 }
@@ -94,7 +94,6 @@
 }
 
 .hamsterCard .aboutMe {
-  font-size: 1.2vw;
   color: #5b5b5f;
 }
 
